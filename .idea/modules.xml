@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count the numbers/Simple_Chatty_Bot.Problems-Count_the_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count the numbers/Simple_Chatty_Bot.Problems-Count_the_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fizz Buzz/Simple_Chatty_Bot.Problems-Fizz_Buzz.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fizz Buzz/Simple_Chatty_Bot.Problems-Fizz_Buzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Grades/Simple_Chatty_Bot.Problems-Grades.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Grades/Simple_Chatty_Bot.Problems-Grades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element divisible by 4/Simple_Chatty_Bot.Problems-Maximum_element_divisible_by_4.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element divisible by 4/Simple_Chatty_Bot.Problems-Maximum_element_divisible_by_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/N-th symbol/Simple_Chatty_Bot.Problems-N-th_symbol.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/N-th symbol/Simple_Chatty_Bot.Problems-N-th_symbol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Size of parts/Simple_Chatty_Bot.Problems-Size_of_parts.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Size of parts/Simple_Chatty_Bot.Problems-Size_of_parts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The length of the sequence/Simple_Chatty_Bot.Problems-The_length_of_the_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The length of the sequence/Simple_Chatty_Bot.Problems-The_length_of_the_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of equation/Simple_Chatty_Bot.Problems-The_roots_of_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of equation/Simple_Chatty_Bot.Problems-The_roots_of_equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of N numbers/Simple_Chatty_Bot.Problems-The_sum_of_N_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of N numbers/Simple_Chatty_Bot.Problems-The_sum_of_N_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" />
+    </modules>
+  </component>
+</project>
